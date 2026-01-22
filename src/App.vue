@@ -4,27 +4,14 @@
       <nav class="nav">
         <div class="logo">Koroo</div>
         <div class="nav-links">
-          <a href="#services">サービス</a>
-          <a href="#strengths">強み</a>
-          <a href="#cases">事例</a>
-          <a href="#contact">お問い合わせ</a>
+          <a href="#about">ころおについて</a>
+          <a href="#journey">これまでの歩み</a>
+          <a href="#work">制作物</a>
+          <a href="#contact">連絡先</a>
         </div>
       </nav>
       <div class="hero-content">
         <div class="hero-text">
-          <p class="eyebrow">企業の変革を、確実に。</p>
-          <h1>デジタルと人の力で<br />未来志向の企業価値を創造</h1>
-          <p class="subhead">
-            Korooは戦略立案からシステム実装、運用改善まで一貫支援するDXパートナーです。
-            企業固有の課題に寄り添い、成果にコミットします。
-          </p>
-          <div class="hero-actions">
-            <button class="primary">無料相談を予約</button>
-            <button class="ghost">会社資料をダウンロード</button>
-          </div>
-        </div>
-        <div class="hero-card">
-          <div class="stat">
             <h3>120+</h3>
             <p>支援プロジェクト</p>
           </div>
@@ -41,108 +28,101 @@
     </header>
 
     <main>
-      <section id="services" class="section">
+      <section id="about" class="section">
         <div class="section-title">
-          <h2>サービス</h2>
-          <p>課題の発見から実装、運用までワンストップで提供します。</p>
-        </div>
-        <div class="grid three">
-          <article class="card">
-            <h3>DX戦略設計</h3>
-            <p>
-              経営課題を整理し、ロードマップとKPIを設計。経営層と現場をつなぐ実行可能な戦略を描きます。
-            </p>
-          </article>
-          <article class="card">
-            <h3>プロダクト開発</h3>
-            <p>
-              ユーザー視点のUI/UX設計とアジャイル開発で、短期間で成果が出るプロダクトを構築します。
-            </p>
-          </article>
-          <article class="card">
-            <h3>データ活用基盤</h3>
-            <p>
-              データ収集から分析ダッシュボードまで整備し、意思決定の速度と精度を高めます。
-            </p>
-          </article>
-        </div>
-      </section>
-
-      <section id="strengths" class="section accent">
-        <div class="section-title">
-          <h2>Korooの強み</h2>
-          <p>企業内外の多様なパートナーと連携し、成果に直結する支援を実現します。</p>
+          <h2>ころおについて</h2>
+          <p>「人とサービスの間にある摩擦をなくす」をテーマに活動しています。</p>
         </div>
         <div class="grid two">
-          <div class="card">
-            <h3>専門性の高いチーム</h3>
+          <article class="card">
+            <h3>得意領域</h3>
             <p>
-              コンサルタント、エンジニア、デザイナーが一体となり、業界特有の課題に対応します。
+              UIデザイン、Webアプリの情報設計、フロントエンド開発。複雑な体験をわかりやすく整理します。
             </p>
-          </div>
-          <div class="card">
-            <h3>伴走型の支援</h3>
+          </article>
+          <article class="card">
+            <h3>スタンス</h3>
             <p>
-              プロジェクト完了後も運用定着まで支援。KPIレビューと改善提案を継続します。
+              目的から逆算して、必要なものだけを研ぎ澄ますこと。プロトタイプで素早く検証し、最適解へ導きます。
             </p>
-          </div>
-          <div class="card">
-            <h3>スピードと品質の両立</h3>
-            <p>
-              スクラム体制で短期リリースを実現しながら、品質保証プロセスで安定運用を担保します。
-            </p>
-          </div>
-          <div class="card">
-            <h3>成果を可視化する指標設計</h3>
-            <p>
-              ビジネスゴールと連動した指標設計で、投資対効果を可視化し経営判断をサポートします。
-            </p>
-          </div>
+          </article>
+        </div>
+      </section>
+      <section id="journey" class="section orbit">
+        <div class="section-title">
+          <h2>これまでの歩み</h2>
+          <p>
+            時系列に並べつつ、星座のように「点と点がつながって見える」構成にしました。
+          </p>
+        </div>
+        <div class="orbit-track">
+          <article class="orbit-node top-left">
+            <div class="orbit-year">2016</div>
+            <h3>学習と模索期</h3>
+            <p>テスト文：ここにキャリアの始まりや学びを記載予定。</p>
+          </article>
+          <article class="orbit-node top-right">
+            <div class="orbit-year">2018</div>
+            <h3>制作実験</h3>
+            <p>テスト文：小規模プロジェクトでUI/UXの試行錯誤。</p>
+          </article>
+          <article class="orbit-node mid-left">
+            <div class="orbit-year">2020</div>
+            <h3>プロダクト支援</h3>
+            <p>テスト文：プロダクトチームへ参画し改善を推進。</p>
+          </article>
+          <article class="orbit-node mid-right">
+            <div class="orbit-year">2022</div>
+            <h3>リード案件</h3>
+            <p>テスト文：企画からデザイン、実装まで一貫で担当。</p>
+          </article>
+          <article class="orbit-node bottom-left">
+            <div class="orbit-year">2023</div>
+            <h3>成果の拡張</h3>
+            <p>テスト文：複数事業にまたがる体験設計を支援。</p>
+          </article>
+          <article class="orbit-node bottom-right">
+            <div class="orbit-year">2024</div>
+            <h3>今後の展望</h3>
+            <p>テスト文：次のチャレンジや新しい挑戦を準備中。</p>
+          </article>
         </div>
       </section>
 
-      <section id="cases" class="section">
+      <section id="work" class="section">
         <div class="section-title">
-          <h2>導入事例</h2>
-          <p>業界を問わず、成果の出る変革を実現しています。</p>
+          <h2>制作物</h2>
+          <p>最新の制作を中心に、今後掲載予定の枠を用意しています。</p>
         </div>
         <div class="grid three">
-          <article class="case">
-            <div>
-              <h3>製造業A社</h3>
-              <p>生産計画の最適化でリードタイムを30%短縮。</p>
-            </div>
-            <span>DX戦略・データ活用</span>
+          <article class="card">
+            <h3>Project Alpha</h3>
+            <p>テスト文：ブランドサイトの情報設計とUI制作。</p>
           </article>
-          <article class="case">
-            <div>
-              <h3>金融業B社</h3>
-              <p>顧客向けアプリ刷新で利用率が2倍に。</p>
-            </div>
-            <span>プロダクト開発</span>
+          <article class="card">
+            <h3>Project Beta</h3>
+            <p>テスト文：SaaSプロダクトのフロント改善。</p>
           </article>
-          <article class="case">
-            <div>
-              <h3>小売業C社</h3>
-              <p>在庫管理のリアルタイム化で欠品率を半減。</p>
-            </div>
-            <span>基盤構築</span>
+          <article class="card">
+            <h3>Project Gamma</h3>
+            <p>テスト文：新規事業の体験設計サポート。</p>
+
           </article>
         </div>
       </section>
 
       <section id="contact" class="section contact">
         <div class="section-title">
-          <h2>お問い合わせ</h2>
-          <p>まずはお気軽にご相談ください。24時間以内に担当者よりご連絡します。</p>
+          <h2>連絡先</h2>
+          <p>コラボレーションや制作相談はお気軽にご連絡ください。</p>
         </div>
         <div class="contact-card">
           <div>
-            <h3>資料請求・相談窓口</h3>
-            <p>contact@koroo.co.jp</p>
-            <p>03-1234-5678（平日 9:00-18:00）</p>
+            <h3>メール</h3>
+            <p>hello@koroo.com</p>
+            <p>ポートフォリオ掲載内容は後日差し替え予定です。</p>
           </div>
-          <button class="primary">相談予約フォームへ</button>
+          <button class="primary">メッセージを送る</button>
         </div>
       </section>
     </main>
@@ -150,14 +130,14 @@
     <footer class="footer">
       <div>
         <div class="logo">Koroo</div>
-        <p>〒100-0001 東京都千代田区千代田1-1-1</p>
+        <p>Portfolio © 2024 Koroo</p>
       </div>
       <div class="footer-links">
-        <a href="#">会社概要</a>
-        <a href="#">採用情報</a>
-        <a href="#">プライバシーポリシー</a>
+        <a href="#">Instagram</a>
+        <a href="#">Behance</a>
+        <a href="#">GitHub</a>
       </div>
-      <p class="copyright">© 2024 Koroo Inc. All rights reserved.</p>
+
     </footer>
   </div>
 </template>
