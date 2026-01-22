@@ -12,29 +12,16 @@
       </nav>
       <div class="hero-content">
         <div class="hero-text">
-          <p class="eyebrow">Portfolio</p>
-          <h1>物語をつくり、体験に仕立てる。</h1>
-          <p class="subhead">
-            ころおのポートフォリオへようこそ。デザインと開発の両面から、
-            心地よい体験を届けることを大切にしています。
-          </p>
-          <div class="hero-actions">
-            <button class="primary">制作相談をする</button>
-            <button class="ghost">作品一覧を見る</button>
-          </div>
-        </div>
-        <div class="hero-card">
-          <div class="stat">
-            <h3>Creative</h3>
-            <p>企画・構成・デザイン</p>
+            <h3>120+</h3>
+            <p>支援プロジェクト</p>
           </div>
           <div class="stat">
-            <h3>Engineering</h3>
-            <p>フロントエンド開発</p>
+            <h3>98%</h3>
+            <p>継続契約率</p>
           </div>
           <div class="stat">
-            <h3>Story</h3>
-            <p>成果を語れる表現</p>
+            <h3>15年</h3>
+            <p>業界知見</p>
           </div>
         </div>
       </div>
@@ -61,7 +48,6 @@
           </article>
         </div>
       </section>
-
       <section id="journey" class="section orbit">
         <div class="section-title">
           <h2>これまでの歩み</h2>
@@ -120,6 +106,7 @@
           <article class="card">
             <h3>Project Gamma</h3>
             <p>テスト文：新規事業の体験設計サポート。</p>
+
           </article>
         </div>
       </section>
@@ -150,6 +137,7 @@
         <a href="#">Behance</a>
         <a href="#">GitHub</a>
       </div>
+
     </footer>
   </div>
 </template>
